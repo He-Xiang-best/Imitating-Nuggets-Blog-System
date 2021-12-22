@@ -8,7 +8,7 @@
 >
 > 班级：软件1903
 >
-> 转载请标注本文链接：https://blog.csdn.net/HXBest/article/details/119974732
+> 转载或引用请标注本文链接：https://blog.csdn.net/HXBest/article/details/119974732
 >
 > 项目中全部文件的下载地址：https://download.csdn.net/download/HXBest/21710919
 >
