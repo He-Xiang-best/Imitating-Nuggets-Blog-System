@@ -8,17 +8,18 @@
 >
 > 班级：软件1903
 >
+> B站的介绍讲解视频观看地址：https://www.bilibili.com/video/BV1oy4y1u7Zo
+>
 > 转载或引用请标注本文链接：https://blog.csdn.net/HXBest/article/details/119974732
 >
 > 项目中全部文件的下载地址：https://download.csdn.net/download/HXBest/21710919
 >
-> B站的介绍讲解视频观看地址：https://www.bilibili.com/video/BV1oy4y1u7Zo
->
-|                           bilibili                           |                   WeChat official account                    |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img width="60%" src="https://img-blog.csdnimg.cn/img_convert/96321ca49ce798da3095c0cb4c2bcafa.png"> | <img width="50%" src="https://img-blog.csdnimg.cn/img_convert/4488f9f9de1c18bb21c82f5657598d0d.png"> |
+>如有问题，欢迎在 [issues](https://github.com/hexiang10/recruitment-data-analysis/issues) 中反馈，其他问题联系方式：
+[![Bilibili](https://img.shields.io/badge/-Bilibili-blue?style=flat&logo=Bilibili&logoColor=pink)](https://space.bilibili.com/495642569)
+[![QQ](https://img.shields.io/badge/-172837855-white?style=flat&logo=tencentqq&logoColor=black)](javascript;)
 
-------
+
+
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/eccae525cc0943dca33ea50fe1669ae7.jpg)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/62c8245bbe2a44c6b903348ebe90465b.jpg)
